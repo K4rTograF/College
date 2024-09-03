@@ -1,0 +1,3 @@
+[submodule "Flappy-bird"]
+	path = Flappy-bird
+	url = https://github.com/K4rTograF/Flappy-bird
