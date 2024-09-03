@@ -1,3 +1,6 @@
 [submodule "Flappy-bird"]
 	path = Flappy-bird
 	url = https://github.com/K4rTograF/Flappy-bird
+[submodule "2/mdk-0502"]
+	path = 2/mdk-0502
+	url = https://github.com/K4rTograF/mdk-0502
